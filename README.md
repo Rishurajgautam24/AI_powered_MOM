@@ -29,8 +29,8 @@ An AI-powered application that transcribes audio recordings and automatically ge
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/Rishurajgautam24/AI_powered_MOM.git
+cd AI_powered_MOM
 
 # Install dependencies
 pip install -r requirements.txt
